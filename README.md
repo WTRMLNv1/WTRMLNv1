@@ -1,4 +1,4 @@
-# Hey there~ I'm WTRMLN! (≧◡≦) ♡
+# Hey there~ I'm WTRMLN! ♡
 
 Welcome to my little corner of GitHub!  
 I'm currently a class 8 student who loves:
@@ -13,7 +13,7 @@ I'm currently a class 8 student who loves:
 - Code
 - Trade in stocks
 - Use APIs (a lot)
-- Study (I am in 8th duh)
+- Study (I am in 8th, duh)
 
 ---
 

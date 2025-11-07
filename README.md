@@ -1,28 +1,16 @@
-# Hey there~ I'm WTRMLN! ♡
+# WTRMLN
 
-Welcome to my little corner of GitHub!  
-I'm currently a class 8 student who loves:
-
-- 🐍 Python (my fav language! no snek jokes pls ( •̀ ω •́ )✧)
-- 🎮 Minecraft
-- 📈 Stonks 
-- 💻 Making cool apps on Python
-
----
-## 💡 Things I Do:
-- Code
-- Trade in stocks
-- Use APIs (a lot)
-- Study (I am in 8th, duh)
+Middle Schooler | Python developer | Loves Minecraft | Stock market hobbyist ig
 
 ---
 
-## 🌱 Currently learning
+## About Me
+I enjoy coding, building apps, and exploring new technologies. Currently focused on:
 
-- More Python magic ✨
-- APIs (talking to robots basically)
-- How not to break my code (still working on it (￣▽￣*)ゞ)
+- Python development
+- API integration
+- Writing clean and reliable code
 
 ---
 
-Thanks for stopping by! ✌(◕‿-)
+Thank you for checking out my profile :3

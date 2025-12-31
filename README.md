@@ -11,6 +11,14 @@ I enjoy coding, building apps, and exploring new technologies. Currently focused
 - API integration
 - Writing clean and reliable code
 
+## Projects
+- Pixela-UI
+- Pixela-UI New version (MUCH better!)
+- Tag game
+- Timetable-App
+- Pong
+- Pong-HTML
+
 ---
 
 Thank you for checking out my profile :3

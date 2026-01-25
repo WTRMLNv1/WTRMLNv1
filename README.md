@@ -12,12 +12,11 @@ I enjoy coding, building apps, and exploring new technologies. Currently focused
 - Writing clean and reliable code
 
 ## Projects
+- VaultMLN
 - Pixela-UI
 - Pixela-UI New version (MUCH better!)
 - Tag game
 - Timetable-App
-- Pong
-- Pong-HTML
 
 ---
 

@@ -76,7 +76,7 @@ Fully offline habit tracker with a really beautiful UI
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WTRMLNv1&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WTRMLNv1&show_icons=true&theme=radical)
 
 ---
 

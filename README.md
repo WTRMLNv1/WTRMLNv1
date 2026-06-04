@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  Middle Schooler • Developer • Minecrafter
+</p>
+
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
   Rust developer focused on desktop applications and automation
 </p>
 

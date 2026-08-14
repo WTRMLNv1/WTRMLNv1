@@ -3,35 +3,9 @@
 </h1>
 
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-  Rust developer focused on desktop applications and automation
+  13 year old developer focused on desktop applications and automation and type shit
 </p>
 
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-Currently building projects with PySide6 and experimenting with app architecture, custom UI frameworks, and trading software.
+I make cool stuff, not to get hired, just stuff I wanna use lwk
 </p>
-
-### Projects
-
-* **AlgoMLN** — Algorithmic trading platform
-* **TrackMLN** — Desktop application to track screen time
-* **VaultMLN** — Secure password manager
-* **PixeMLN** — Offline habit tracker
-* **Pixela UI** — Custom UI for Pixela API
-* **Tag Game** — Multiplayer game experiment
-
-### GitHub Stats
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-profile-stats-opal.vercel.app/api/stats?username=WTRMLNv1" />
-    </td>
-    <td valign="top">
-      <img src="https://github-profile-stats-opal.vercel.app/api/langs?username=WTRMLNv1" />
-    </td>
-    <td valign="top">
-      <img src="https://github-profile-stats-opal.vercel.app/api/heatmap?username=WTRMLNv1" />
-    </td>
-  </tr>
-</table>
-
-Building things until they work.

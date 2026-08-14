@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#fffef5" d="M13.27 4.2a.75.75 0 0 0-1.04 1.1l6.25 5.95H3.75a.75.75 0 0 0 0 1.5h14.73l-6.25 5.95a.75.75 0 0 0 1.04 1.1l7.42-7.08a1 1 0 0 0 0-1.44z"/><style xmlns="" id="zeninternet-styles">html, body, nav, #nav, .nav, .sticky-category-bar-container, navbar, body &gt; .root-l-content, .p-archiveBody__container, .navbar, .page_wrapper.without-image, #navbar, header &gt; .global-head-cont, header, .toc-sidebar, #header, #temp_banner, .ranavnode, .header, header::before, body &gt; article, app, #root &gt; div &gt; div &gt; .w-full, #app, footer, .sc-tvx700-7.egPRoP, .sidebar-wrap, .p-sectionLinks, section, .main, main::before, #__next, .sidebar-wrapper, .sidebar-footer-wrapper, .sidebar-footer-container::before, #root, .min-h-screen.bg-white, .app, .AppContainer, .app-root, #wrapper, body[data-theme="dark"], body[data-theme="light"], #pass-sidebar, .side-bar, #main, .sidebar, .global-content__content, main, .header-top, #content, #cu-identity, section, .l-root, #__next, .landing-hero, #navigation-wrapper, #global-navbar, .layout__content-wrapper, .head.notfixed, .main-container, #app &gt; div, .btm-nav &gt; a, .oc-content--main, body.dark_mode, body.light_mode, text-div &gt; textarea, #starlight__sidebar, .sidebar-pane, .page--article, #xf-guide, [data-color-theme] body, #__next &gt; div, .hero-right, #middle, .HeaderLinks_header__Ia2QY, #page-content, section[data-role] {
+  background-color: transparent !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  transition:
+    background-color 0.5s ease-in-out,
+    background 0.5s ease-in-out,
+    border 0.5s ease-in-out,
+    box-shadow 0.5s ease-in-out !important;
+}
+:root {
+  --darkreader-background-ffffff: transparent !important;
+}
+@layer {
+  :root,
+  html,
+  body {
+    --darkreader-background-ffffff: transparent !important;
+    background-color: transparent !important;
+  }
+}
+footer, #Footer, .Footer, mfe-footer-pharos-footer, .footer, #footer {
+  display: none !important;
+}
+</style></svg>

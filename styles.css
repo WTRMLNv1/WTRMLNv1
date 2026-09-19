@@ -11,13 +11,13 @@
     --accent-text: #fffef5;
 
     /* Surfaces */
-    --bg: antiquewhite;
-    --bg-soft: #f5e9d3;
+    --bg: #fafafa;
+    --bg-soft: #f0f0f0;
     --ink: #1a1a1a;
     --ink-soft: #454545;
     --ink-muted: #6e6e6e;
     --border: #c9bfae;
-    --glass: rgba(255, 254, 245, 0.55);
+    --glass: rgba(250, 250, 250, 0.6);
     --shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     --shadow-hover: 0 8px 22px rgba(0, 0, 0, 0.14);
 }
@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     gap: 8vh;
     scrollbar-width: none;
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
@@ -93,7 +93,7 @@ button {
 }
 
 .para {
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: clamp(1rem, 1.3vw, 1.25rem);
     color: var(--ink-soft);
@@ -199,7 +199,7 @@ button {
     border-radius: 6px;
     padding: 0.7em 1.2em;
     cursor: pointer;
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 500;
     letter-spacing: 0.02em;
     text-decoration: none;
@@ -298,8 +298,7 @@ button {
     overflow: hidden;
     border-radius: 14px;
     border: 1px solid var(--border);
-    background-color: rgba(255, 254, 245, 0.6);
-    backdrop-filter: blur(6px);
+    background-color: var(--bg-soft);
     padding: 1.4rem 1.25rem 1.25rem;
     min-height: 180px;
     display: flex;
@@ -406,7 +405,7 @@ button {
 }
 
 .hobby-desc {
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 400;
     color: var(--ink-soft);
     font-size: clamp(0.85rem, 0.95vw, 0.95rem);
@@ -476,8 +475,7 @@ button {
 .project-card-right {
     display: flex;
     flex-direction: row;
-    background-color: rgba(255, 254, 245, 0.55);
-    backdrop-filter: blur(4px);
+    background-color: var(--bg-soft);
     border-radius: 18px;
     border: 1px solid var(--border);
     padding: 14px;
@@ -525,7 +523,7 @@ button {
 
 .project-description {
     color: var(--ink-soft);
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: clamp(0.95rem, 1.15vw, 1.1rem);
     line-height: 1.55;
@@ -542,7 +540,7 @@ button {
     display: inline-flex;
     align-items: center;
     gap: 0.3rem;
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-weight: 500;
     font-size: 0.78rem;
     color: var(--accent);
@@ -613,11 +611,11 @@ button {
     display: flex;
     align-items: center;
     gap: 0.9rem;
-    background: rgba(255, 254, 245, 0.65);
+    background: var(--bg-soft);
     border: 1px solid var(--border);
     border-radius: 12px;
     padding: 0.9rem 1.1rem;
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-size: clamp(0.95rem, 1.1vw, 1.05rem);
     color: var(--ink);
     box-shadow: var(--shadow);
@@ -640,8 +638,8 @@ button {
 .contact-label {
     color: var(--ink-muted);
     font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    text-transform: none;
+    letter-spacing: normal;
     font-weight: 500;
     min-width: 80px;
 }
@@ -650,7 +648,7 @@ button {
     font-weight: 500;
     color: var(--ink);
     flex: 1;
-    font-family: 'Inter', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
 .copy-btn {

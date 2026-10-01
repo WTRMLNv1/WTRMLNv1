@@ -1,19 +1,21 @@
-<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm WTRMLN
-</h1>
+<img src="wtrmln.svg" align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WTRMLNv1/WTRMLNv1/main/TrackMLN-assets/badges/studio-badge.svg" height="40">
+  14 year old developer making software <em>I wish existed.</em>
 </p>
 
-<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-  Middle Schooler • Developer • Minecrafter
-</p>
+<h2 align="center">Say hello!</h2>
 
-<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-  13 year old developer focused on desktop applications and automation and type shit
-</p>
-
-<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-I make cool stuff, not to get hired, just stuff I wanna use lwk
+<p align="center">
+  <a href="https://www.wtrmlnv1.melogne.studio">
+    <img src="site.svg" alt="Visit my site" height="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:wtrmlnv1@melogne.studio">
+    <img src="Email.svg" alt="Email me" height="45">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1026056470892118069">
+    <img src="discord.svg" alt="Send a message on Discord" height="45">
+  </a>
 </p>

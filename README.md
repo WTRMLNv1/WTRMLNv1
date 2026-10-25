@@ -7,7 +7,7 @@
 <h2 align="center">Say hello!</h2>
 
 <p align="center">
-  <a href="https://www.wtrmlnv1.melogne.studio">
+  <a href="https://www.wtrmln.pages.dev">
     <img src="site.svg" alt="Visit my site" height="45">
   </a>
   &nbsp;&nbsp;&nbsp;
